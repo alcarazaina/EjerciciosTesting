@@ -36,3 +36,15 @@ w
 G.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec,8\6\863e0292fd7e9b3e74dafd6cc01f73ba76346482
 S
 #.idea/sonarlint/issuestore/index.pb,9\f\9fe84ebb15faf917b7def6236dba604453cc61e0
+X
+(src/main/java/Ejercicio03/Ejercicio03.md,7\f\7fb2b099335d30f011d73eeee91be67c5db1eb76
+c
+3src/test/java/Ejercicio03/LosSaltosDeMarioTest.java,a\6\a62116a8258ff5236a901b8c8177d3a271a7b7b9
+_
+/src/main/java/Ejercicio03/LosSaltosDeMario.java,b\0\b0efec027be150dc925d0481cdfbf9e71ac4fd0f
+]
+-src/main/java/Ejercicio04/HaySuficientes.java,f\1\f1b29b388be5ebb4abc5db71ed8adadc1575beac
+X
+(src/main/java/Ejercicio04/Ejercicio04.md,c\5\c502bc21db6373ccacbf9d5f4442b49e15b923fe
+a
+1src/test/java/Ejercicio04/HaySuficientesTest.java,7\1\710dfe12bd802c750daef45106a41e8c033f84b5
