@@ -1,10 +1,11 @@
 package Ejercicio04;
 
-public class HaySuficientes {
-    public static void main(String[] args) {
+import java.util.Scanner;
 
-    }
+public class HaySuficientes {
+
         public static boolean calcularSiHaySuficientes(int uvas, int comensales) {
-        return false;
+
+            return uvas / comensales >= 12;
         }
     }
